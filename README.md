@@ -1,4 +1,7 @@
-The objective of this project is to analyze bike sales data across various regions, occupation, age, gender e.t.c using it to analyze sales trends, identify patterns, gain insights and understand customer behavior.
+**BIKES-SALES-ANALYSIS**
+
+
+The objective of this project is to analyze bike sales data across various regions, occupation, age, gender e.t.c using it to analyze sales trends and identify patterns of Purchased bikes among different Age groups, Regions, Occupation e.t.c, to gain insights for well informed decisions and also to understand customer behavior.
 
 **DATA PREPARATION AND PROCESSES**
 
